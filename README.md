@@ -1,5 +1,5 @@
 # WinterHillMux
-A list of updated mux settings for the Winter Hill transmitter, intended for use with TVHeadEnd.
+A list of updated mux settings (including local muxes for Manchester) for the Winter Hill transmitter, intended for use with TVHeadEnd.
 
 ## Installation
 - Add the file 'uk-WinterHillNew' to the directory containing mux lists.
